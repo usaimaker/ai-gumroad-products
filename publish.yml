@@ -1,0 +1,28 @@
+name: Gumroad Publish
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 06:00 UTC = 14:00 Beijing, after daily generation
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Generate products
+        run: python generate.py
+      - name: Publish to Gumroad
+        env:
+          GUMROAD_TOKEN: ${{ secrets.GUMROAD_TOKEN }}
+        run: python publish.py
+      - name: Commit published tracking
+        run: |
+          git config user.email "bot@usaimaker.dev"
+          git config user.name "ai-nexus-bot"
+          git add published.json
+          git commit -m "track gumroad published products" || echo "nothing to commit"
+          git push || echo "push failed"
