@@ -6,9 +6,9 @@ One account is the master key to everything you run, and this is the free drill 
 
 For a solo operator, the primary email account is not one account among many. It is the reset channel for every other account you own. It is often the login itself, through Sign in with Google or Sign in with Microsoft. It frequently holds the domain, the invoices, the contracts, and the client files.
 
-Now the uncomfortable part. Consumer accounts at the large providers do not come with a phone number or an email address that reaches a human. Recovery is an automated process that scores how much you look like the real owner. Paid escalation exists, such as support bundled with a consumer subscription tier or an administrator inside a business workspace, but neither helps at 2am if you never set it up.
+Now the uncomfortable part. Consumer accounts at the large providers do not come with a phone number or an email address that reaches a human. Recovery is an automated process that scores how much you look like the real owner. Paid escalation exists, such as a consumer subscription tier or a workspace administrator, but neither helps at 2am if you never set it up.
 
-A business workspace lockout is worse. With no reachable administrator, staff cannot get password resets, a compromised account cannot be suspended, and billing cannot be fixed. Recovery then means proving domain ownership through a DNS record and waiting days or weeks.
+A business workspace lockout is worse. With no reachable administrator, staff cannot get password resets, a compromised account cannot be suspended, and billing cannot be fixed. Recovery then means proving domain ownership through a DNS record and waiting.
 
 The entire leverage is in preparation, and preparation costs nothing.
 
@@ -41,7 +41,7 @@ Consumer recovery is scored on behavior, not on identity documents. Four habits 
 
 - **Keep one device permanently signed in.** An old phone that stays at home, signed in and untouched, is the strongest single recovery signal available.
 - **Never wipe that device during an incident.** Factory resetting it destroys the session that would have proven you are the owner.
-- **Run recovery from your usual device, browser profile, and network.** Private browsing strips the cookies and history the system reads as identity, so it makes you look like a stranger.
+- **Run recovery from your usual device, browser profile, and network.** Private browsing strips the cookies and history the system reads as identity, which makes you look like a stranger.
 - **Fill in every field, once.** Approximate answers beat empty ones, and a burst of random guesses looks like an attack.
 
 ## Step 4: Close the doors a new password leaves open
@@ -74,8 +74,6 @@ Free tiers move, so confirm on the vendor pricing page before committing. As com
 - Apple Passwords is fully free on recent operating systems with passkeys and verification codes, but only inside that ecosystem
 - KeePassXC is free, local, and supports one time codes, but you own the sync problem
 - LastPass free is limited to one device type, mobile or desktop, not both
-- NordPass free allows one active device at a time
-- Dashlane free caps the vault at roughly twenty five items, which makes it evaluation only
 
 One judgment call is worth making deliberately. Keeping the password and the second factor in the same vault is convenient and puts both keys in one basket. A reasonable middle ground is a vault for passwords, plus a separate authenticator app or hardware key for the three accounts that would end the business: email, registrar, payment processor. Masked aliases matter too, because credential reuse harvested from unrelated breaches is widely reported as the largest single source of takeover attempts, and a unique address per signup breaks that chain.
 
@@ -89,7 +87,7 @@ If it happens today, containment comes before cleanup:
 4. Change the password, then end all sessions
 5. Revoke grants, application passwords, and delegation
 6. Remove hostile rules and restore recovery contacts
-7. Protect the blast radius in order: registrar, payment processor, file sharing links, then every service using that account as its login
+7. Protect the blast radius: registrar, payment processor, file sharing links, then every service that uses this account to log in
 8. Send contacts a two line warning that recent messages may be hostile
 9. Only then start cleaning up
 
@@ -107,7 +105,7 @@ Put it on the calendar four times a year:
 
 ## What this does not cover
 
-This is continuity planning, not compliance. It does not replace a written incident response policy, cyber insurance, or legal advice on breach notification duties. Vendor limits and support paths change without notice, so treat every number here as a prompt to check the official page, including the numbers in this document.
+This is continuity planning, not compliance, and it is not legal advice. Vendor limits and support paths change without notice, so treat every number here as a prompt to check the official page, including the numbers in this document.
 
 ## How to use
 
@@ -117,6 +115,6 @@ Week one: complete Step 1 and Step 2. Write the single point of failure page, cr
 
 Week two: complete Step 3 and Step 5. Set up the always signed in device, choose your password and authenticator split, and move the three critical accounts to phishing resistant sign in.
 
-Week three: run Step 4 as an audit even though nothing is wrong. Delete stale grants, unknown rules, and unused application passwords. Print Step 6, put it in the same envelope as the backup codes, and add the quarterly drill to your calendar.
+Week three: run Step 4 as an audit even though nothing is wrong. Delete stale grants, unknown rules, and unused application passwords. Print Step 6, store it with the backup codes, and add the quarterly drill to your calendar.
 
 If you only ever do one thing, do this: print the backup codes today and set a recovery address on a different provider. That single pair converts most lockouts from a business ending event into a bad afternoon.
