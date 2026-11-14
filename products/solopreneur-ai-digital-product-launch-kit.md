@@ -1,87 +1,85 @@
 # The Solopreneur's AI Digital Product Launch Kit
 
-Your step-by-step system to launch a digital product (course, template, or toolkit) to a warm audience — without a team, an ad budget, or 12-hour days. Built for solo founders who already have an email list (or a waitlist) and want a repeatable launch they can run in 14 days.
+Go from idea to first sale in 14 days with free AI tools. No team, no budget, no guesswork.
 
-## What's inside
-- A 14-day launch timeline (do-this-today format)
-- A 5-email launch sequence (copy-paste angles + CTAs)
-- A waitlist-growth checklist
-- 10 copy-paste AI prompts that draft your launch assets
-- A launch-day social swipe and an objection-buster table
-- A pre-launch sanity checklist
+## What's Inside
+- 14-Day Launch Timeline (D-14 to D+3)
+- 5-Email Launch Sequence (copy-paste)
+- Waitlist Growth Checklist
+- 10 Copy-Paste AI Prompts
+- Launch-Day Social Swipe File
+- Objection-Buster Table
+- Pre-Launch Sanity Checklist
 
-## The 14-Day Launch Timeline
+## 14-Day Launch Timeline
+| Day | Focus | Action | AI Prompt |
+|-----|-------|--------|-----------|
+| D-14 | Niche | Pick one painful problem a specific audience pays to solve | P1 |
+| D-12 | Offer | Define product, price, promise in one sentence | P2 |
+| D-10 | Asset | Draft the lead magnet that earns the email | P3 |
+| D-8 | Waitlist | Build a 1-page waitlist (free Carrd/Tally) | P4 |
+| D-6 | Audience | List 10 communities where buyers gather | P5 |
+| D-4 | Content | Write 5 teaser posts from customer language | P6 |
+| D-2 | Sequence | Draft the 5-email launch sequence | P7 |
+| D-1 | Prep | Queue emails, set launch price, test links | P8 |
+| D-Day | Launch | Send email 1, post everywhere, go live | P9 |
+| D+1 | Proof | Collect screenshots, testimonials, replies | P10 |
+| D+2 | Urgency | Send last chance email, bump price | - |
+| D+3 | Wrap | Thank buyers, repurpose into next product | - |
 
-| Day | Action | AI assist |
-|-----|--------|-----------|
-| D-14 | Open waitlist; write the promise page | Prompt 1 |
-| D-12 | Send "what's coming" teaser to list | Prompt 2 |
-| D-10 | Publish a free value post that pre-sells | Prompt 3 |
-| D-7  | Open cart soft-launch to waitlist | Prompt 4 |
-| D-5  | Send case-study / proof email | Prompt 5 |
-| D-3  | Share a behind-the-scenes story | Prompt 6 |
-| D-1  | Send "launches tomorrow" reminder | Prompt 7 |
-| D-0  | Launch email + social swipe (below) | Prompt 8 |
-| D+1  | Send "last chance in 48h" | Prompt 9 |
-| D+2  | Send final "closing tonight" | Prompt 10 |
-| D+3  | Close cart; send thank-you + upsell | — |
-
-## The 5-Email Launch Sequence
-
-| # | Email | Angle | CTA |
-|---|-------|-------|-----|
-| 1 | Open Cart | "It's live — here's what you get" | Grab [Product] |
-| 2 | Story / Why | Founder story + transformation | See how it works |
-| 3 | Proof | A customer result or screenshot | Join them |
-| 4 | Objection | "Is this for me?" FAQ buster | Start today |
-| 5 | Last Call | Countdown + bonus if bought in 24h | Lock your price |
-
-Paste the angle into the matching AI prompt to draft the full email in your voice.
+## 5-Email Launch Sequence
+| # | When | Subject | Hook |
+|---|------|---------|------|
+| 1 | D-Day 9:00 | It's live: your result kit | I built the exact system I wish I had when... |
+| 2 | D-Day +6h | Quick question about pain | What's the number one thing blocking your goal? |
+| 3 | D+1 9:00 | How customer got result in time | She used just 3 of the 10 prompts and... |
+| 4 | D+2 9:00 | Price goes up at midnight | The launch price locks tonight, here's why... |
+| 5 | D+3 9:00 | Last chance plus what's next | Doors close in 12h, here's what early buyers get next |
 
 ## Waitlist Growth Checklist
-- [ ] One-line promise: "Get [outcome] without [pain]"
-- [ ] Landing page: headline + 3 bullets + email field only
-- [ ] Share in 1 channel you already post in (LinkedIn / X / Reddit)
-- [ ] Reply to every waitlist reply personally for 48h
-- [ ] Offer a bonus for joining before D-7
-- [ ] Tag waitlist separately from buyers
+- [ ] One-line promise: Get result without pain
+- [ ] Waitlist page live with email field
+- [ ] Daily teaser in 2 communities (no spam)
+- [ ] Reply to every waitlist reply within 24h
+- [ ] Offer a bonus for first 50 signups
+- [ ] Share your build in public on X, LinkedIn, Reddit
+- [ ] Cross-promo with one non-competing creator
 
 ## 10 Copy-Paste AI Prompts
-
-| Goal | Prompt |
-|------|--------|
-| 1. Waitlist page | "Write a 100-word waitlist page for a [product] that helps [audience] achieve [outcome]. Include headline, 3 bullets, one CTA." |
-| 2. Teaser email | "Draft a 120-word teaser email announcing my [product] launches in 2 weeks. Tone: excited, no hard sell." |
-| 3. Value post | "Write a LinkedIn post teaching one tactic from my [product]. End with a soft waitlist link." |
-| 4. Soft launch | "Draft a launch email for my [product], price $[X]. Lead with the #1 result. CTA: buy now." |
-| 5. Proof email | "Turn this customer result '[result]' into a 150-word proof email with a 'join them' CTA." |
-| 6. Story email | "Write a founder story email (200 words) about why I built [product]. End with the launch link." |
-| 7. Reminder | "Draft a short 'launches tomorrow' reminder email. Friendly, 80 words, one CTA." |
-| 8. Launch social | "Write a 5-line Instagram/TikTok caption for my [product] launch. Hook + benefit + link in bio." |
-| 9. Urgency email | "Draft a '48 hours left' email for [product]. Use honest urgency, no fake scarcity." |
-| 10. Last call | "Write a final 'closing tonight' email (100 words). Recap benefit, add a 24h bonus, one CTA." |
+| # | Use | Prompt |
+|---|-----|--------|
+| P1 | Niche | List 10 painful problems solopreneurs in niche pay to solve. Rank by urgency. |
+| P2 | Offer | Turn this problem into a one-sentence offer with a clear promise and price. |
+| P3 | Lead magnet | Create a 1-page checklist that solves problem in 10 minutes. |
+| P4 | Waitlist copy | Write a 30-word waitlist pitch that trades a bonus for an email. |
+| P5 | Audience | Name 10 active communities where audience asks about problem. |
+| P6 | Teasers | Write 5 teaser posts in the customer's own words about pain. |
+| P7 | Emails | Draft a 5-email launch sequence for product, friendly, no hype. |
+| P8 | Launch plan | Make a D-Day checklist: emails, posts, price, links, support. |
+| P9 | Launch post | Write a launch-day post that says what it is, who it's for, CTA. |
+| P10 | Proof | From these replies, extract 3 short testimonial-style quotes. |
 
 ## Launch-Day Social Swipe
-"After [X] years of [pain], I built [Product] so you can [outcome] in [timeframe]. It's live for [price] — link in bio."
+- Post: After 14 days building in public, product is LIVE. It helps you result. Grab it here: link
+- Story: Behind the scenes, the 10 prompts that built this. Swipe file inside.
+- Reply template: Thanks, it's built for audience who want result without pain, happy to answer anything.
+- DM: Hey name, saw you struggling with pain. I just launched a kit for exactly that, link?
 
 ## Objection-Buster Table
-
-| Objection | Response hook |
-|-----------|---------------|
-| "Too expensive" | "One client project pays for this in a week." |
-| "I'm too busy" | "It's built to save you [X] hours — start with module 1." |
-| "Will it work for me?" | "It's for [specific audience]; here's a result." |
-| "I'll do it later" | "Price goes up [date]; lock it now." |
+| Objection | Response |
+|-----------|----------|
+| Too expensive | It's less than one hour of a freelancer, reuse it forever. |
+| I'll do it myself | You can, the prompts do the heavy lifting for you. |
+| No time | It's built to save time, most finish in an afternoon. |
+| Does it work | Here are 3 results from early users: proof. |
 
 ## Pre-Launch Sanity Checklist
-- [ ] Price decided and tested on 3 people
-- [ ] Payment link works (test purchase)
-- [ ] Emails scheduled, not manual
-- [ ] Affiliate / partner blast lined up
-- [ ] Support reply templates ready
-- [ ] One bonus promised and delivered
+- [ ] Link works on phone and desktop
+- [ ] Email sequence tested end-to-end
+- [ ] Price matches the promise
+- [ ] Refund policy stated
+- [ ] One clear CTA everywhere
+- [ ] Thank-you page delivers the product
 
 ## Your Next Step
-Run Prompt 1 today to draft your waitlist page, then open it for 14 days using the timeline above. Want the full fill-in launch workbook? Grab the companion kit and ship your first (or next) launch this month.
-
-*Built by solopreneurs, for solopreneurs. AI-drafted, human-approved.*
+Grab the kit, open the 14-day timeline, and run Prompt P1 today. Ship in 14 days, then do it again. Your first sale is closer than it feels.
